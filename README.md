@@ -17,3 +17,5 @@ Machine learning is a powerful tool that can be used to predict national greenho
 
 
 *  Reducing emissions can lead to cost savings, increased efficiency, and improved brand reputation. 
+
+Predictive Machine learning plays a crucial role in shaping a sustainable future by enabling us to predict and mitigate the impacts of greenhouse gas emissions on a national scale. With the urgency to combat climate change, accurate estimation and forecasting of these emissions have become essential for policymakers and environmental scientists. 
